@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Dorood👋, I'm ArashBioinf(ormatics)!
 
 🧬 I'm a highly motivated student with a Bachelor’s degree in Molecular and Cellular Biology, possessing a strong background in bioinformatics. I have [published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) peer-reviewed papers, along with multiple international conference posters in bioinformatics and computational biology. I aspire to contribute to groundbreaking research in CANCER IMMUNOTHERAPY using single-cell multi omics, structural bioinformatics, and machine learning. 
