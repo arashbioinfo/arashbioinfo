@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Dorood👋, I'm Arash Bioinf(ormatics)!
+### Dorood👋, I'm ArashBioinf(ormatics)!
 
 🧬 I'm a highly motivated student with a Bachelor’s degree in Molecular and Cellular Biology, possessing a strong background in bioinformatics. I have [published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) peer-reviewed papers, along with multiple international conference posters in bioinformatics and computational biology. I aspire to contribute to groundbreaking research in CANCER IMMUNOTHERAPY using single-cell multi omics, structural bioinformatics, and machine learning. 
 Since July 2022, I have actively shared my knowledge through [Persian YouTube Channel](https://www.youtube.com/@elmium). In 2023, I expanded my outreach through [Persian Telegram Channel](https://t.me/arashbioinf) and [Persian Q&A Telegram Group](https://t.me/arashbioinfQA), offering practical tips, focusing on bioinformatics data analysis, providing free resources for learning bioinformatics and supporting tens of students for free!
