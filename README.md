@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/elmium_/)](https://www.instagram.com/elmium_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arash.bagherabadi@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://sites.google.com/view/arash-bagherabadi)](https://sites.google.com/view/arash-bagherabadi)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/arashbioinf)
+[![Github](https://img.shields.io/github/followers/arashbioinf?label=Follow&style=social)](https://github.com/arashbioinf)
 
 - 💻 Highly motivated student (BSc in Molecular and Cellular Biology), possessing a strong background in bioinformatics. 
 - 📄 [published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) peer-reviewed papers and international conference abstracts in bioinformatics and computational biology.
