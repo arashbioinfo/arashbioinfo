@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Arash Bioinfo(rmatics)
+# Arash Bagherabadi
 
 - 💻 Highly motivated student (BSc in Molecular and Cellular Biology), possessing a strong background in bioinformatics. (R, Python, Bash, etc.)
 - 📄 [Published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) peer-reviewed papers and international conference abstracts in bioinformatics and computational biology.
