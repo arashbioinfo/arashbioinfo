@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🧠 Founder of **[CellRavel](https://github.com/cellravel)**
 - 💻 Highly Motivated Researcher, Possessing a Strong Background in Bioinformatics (R, Python, Bash, etc.)
-- 📄 [Published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) Peer-reviewed Papers and International Conference Abstracts in Bioinformatics and Computational Biology.
-- 🧬 Contributing to Groundbreaking Research in CANCER IMMUNOTHERAPY Using Single-cell Multi Omics, Structural Bioinformatics, and Machine Learning.
+- 📄 [Published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) Peer-reviewed Papers and International Conference Abstracts in Bioinformatics and Computational Biology
+- 🧬 Contributing to Groundbreaking Research in CANCER IMMUNOTHERAPY Using Single-cell Multi Omics, Structural Bioinformatics, and Machine Learning
 - 🌱 Since July 2022, I have actively shared my knowledge through [Persian YouTube Channel](https://www.youtube.com/@elmium). In 2023, I expanded my outreach through [Persian Telegram Channel](https://t.me/arashbioinfo) and [Persian Q&A Telegram Group](https://t.me/arashbioinfoQA), offering practical tips, focusing on bioinformatics data analysis, providing free resources for learning bioinformatics and supporting tens of students for free!
 - 📫 How to Reach Me: arash.bagherabadi@gmail.com
 
