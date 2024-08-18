@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💻 Highly motivated student (BSc in Molecular and Cellular Biology), possessing a strong background in bioinformatics. (R, Python, Bash, etc.)
 - 📄 [Published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) peer-reviewed papers and international conference abstracts in bioinformatics and computational biology.
 - 🧬 Aspire to contribute to groundbreaking research in CANCER IMMUNOTHERAPY using single-cell multi omics, structural bioinformatics, and machine learning.
+- 🧠 Founder of [CellRavel](https://github.com/cellravel)
 - 🌱 Since July 2022, I have actively shared my knowledge through [Persian YouTube Channel](https://www.youtube.com/@elmium). In 2023, I expanded my outreach through [Persian Telegram Channel](https://t.me/arashbioinfo) and [Persian Q&A Telegram Group](https://t.me/arashbioinfoQA), offering practical tips, focusing on bioinformatics data analysis, providing free resources for learning bioinformatics and supporting tens of students for free!
 - 📫 How to reach me: arash.bagherabadi@gmail.com
 
